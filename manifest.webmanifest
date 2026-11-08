@@ -1,0 +1,30 @@
+{
+ "name": "Maqueta 3D de la vivienda",
+ "short_name": "Maqueta 3D",
+ "description": "Maqueta 3D editable: sol, cortes, muebles, muros, techos y exportación.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0e1215",
+ "theme_color": "#13171b",
+ "lang": "es-AR",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+MAQUETA 3D — CÓMO PUBLICARLA E INSTALARLA COMO APP
+====================================================
+
+Esta carpeta es la app completa. Para usarla en el celular tiene que estar en
+internet una vez (después funciona sin conexión).
+
+1) PUBLICARLA GRATIS (una sola vez, desde la computadora)
+   a. Entrá a https://app.netlify.com/drop
+   b. Arrastrá a la página ESTA CARPETA entera (la que tiene index.html y este
+      archivo adentro).
+   c. Creá una cuenta gratis de Netlify y reclamá el sitio ("Claim"). Sin eso el
+      link no queda público y se borra en una hora.
+   d. Te queda un link del tipo https://nombre-al-azar.netlify.app. En la
+      configuración del sitio le podés cambiar el nombre (por ejemplo
+      maqueta-mateo.netlify.app).
+
+2) INSTALARLA EN EL IPHONE
+   a. Abrí el link en Safari.
+   b. Tocá Compartir → "Agregar a inicio" (dejá activado "Abrir como app web").
+   c. Aparece el ícono "Maqueta 3D": se abre a pantalla completa y sin barras.
+   En Android: Chrome → menú ⋮ → "Instalar app". En la computadora (Chrome o Edge):
+   ícono de instalar en la barra de direcciones.
+
+3) ACTUALIZARLA
+   Cuando te pase una versión nueva, la descomprimís, entrás a tu sitio en Netlify
+   → Deploys y arrastrás la carpeta nueva. La app instalada se actualiza sola la
+   próxima vez que la abras con conexión. Tus cambios guardados no se pierden.
+
+IMPORTANTE
+- Lo que cambies en la app queda guardado EN ESE DISPOSITIVO. Para pasar tu proyecto
+  a otro (o desde la maqueta de Claude a la app): Más → "Guardar copia" y después,
+  en el otro, Más → "Cargar copia".
+- En el iPhone, la app instalada y Safari guardan por separado: lo que hagas en el
+  ícono no aparece si abrís el link en Safari (y al revés).
+- De vez en cuando hacé "Guardar copia": es tu respaldo si cambiás de celular o
+  borrás la app.
+- Para verla solo en la computadora alcanza con abrir index.html con doble clic.
+  Para tenerla en el celular sí hay que publicarla (paso 1).
+- Cualquiera con el link puede abrir la app (no ve tus cambios, solo la casa original).
